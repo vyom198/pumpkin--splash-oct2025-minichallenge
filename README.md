@@ -1,11 +1,14 @@
-    # PumpkinSplash App
 
-    This is a fun splash screen animation created for the October Mini-Challenge. It showcases a pumpkin logo with a multi-stage animation sequence.
+# PumpkinSplash App
 
-    ### Demo
+This is a fun splash screen animation created for the October Mini-Challenge. It showcases a pumpkin logo with a multi-stage animation sequence.
 
-    ![PumpkinSplash Demo](https://github.com/user-attachments/assets/583d858f-9357-4eba-9759-9fad4bcdecf4)
+### Demo
+
+
     
-
+    
+    
+https://github.com/user-attachments/assets/4182cecc-6403-43f2-8101-780a1a5ad14f
 
 
